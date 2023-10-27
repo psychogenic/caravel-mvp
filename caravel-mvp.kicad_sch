@@ -3852,8 +3852,8 @@
     (effects (font (size 1.6 1.6) (thickness 0.254) bold) (justify left bottom))
     (uuid 6a52abbd-20af-4880-ad44-f0be941d4f9c)
   )
-  (text "Vin may be provided\nvia USB or basic \nJST or 100mil header.\n\nAny voltage suitable for \ntop level LDO should do,\nsay 3v3 <= Vin < 15V here.\n\nLower is more efficient,\ngens less heat."
-    (at 36.83 73.66 0)
+  (text "Vin may be provided\nvia USB or basic JST \nor 100mil header.\n\nAny voltage suitable for \ntop level LDO should do,\nsay 3v3 <= Vin < 15V here\n(check the regulator you\nare actually using!).\n\nLower is more efficient, gens \nless heat."
+    (at 35.56 76.2 0)
     (effects (font (size 1 1)) (justify left bottom))
     (uuid 6aed7b9b-4351-4ab3-bd3f-6f72157ace44)
   )
